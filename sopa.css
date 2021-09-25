@@ -1,0 +1,64 @@
+*{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+.contenedor1{
+    background-color: rgb(48, 70, 5);
+
+}
+
+.titulo1{
+    background-color: rgb(22, 22, 22) !important ;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(198, 221, 153);
+    border-radius: 100px;
+    margin: 30px;
+
+}
+
+.tabla td {
+    margin: 10px;
+    background-color: rgb(198, 221, 153);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 1px rgb(17, 12, 3);
+    border: solid;
+    border-color: rgb(45, 51, 48);
+    padding-left: 5px;
+    width:30px ;
+    
+    
+}
+
+.tabla  {
+ justify-items: center;   
+display: flex;
+padding-top: 40px;
+    
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(198, 221, 153);
+}
+
+.palabras{
+    
+        padding-top: 70px;
+        padding-left: 90px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+        color: rgb(198, 221, 153);
+        font-style: unset;
+    }
+
+
+
+
+
